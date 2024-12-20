@@ -15,7 +15,7 @@ import Changelog from "@theme/components/Changelog.vue";
 
 # Download
 
-The latest stable version of **Aniyomi** was released **<ReleaseDate type="stable" />** and the latest preview version was released **<ReleaseDate type="preview" />**.
+The latest stable version of **Anipaca** was released **<ReleaseDate type="stable" />** and the latest preview version was released **<ReleaseDate type="preview" />**.
 
 Preview releases are intended for testing upcoming changes and may not be a stable experience.
 
