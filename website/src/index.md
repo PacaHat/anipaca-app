@@ -4,7 +4,7 @@ layout: home
 
 hero:
   name: Anipaca
-  text: Full-featured player and reader, based on <s>zoro.to</s> Hianime.
+  text: Full-featured Anime streaming app, based on <s>zoro.to</s> Hianime.
   tagline: Discover and watch anime, cartoons, series, and more – easier than ever on your Android device.
   image:
     alt: Anipaca Library Tab Dark
