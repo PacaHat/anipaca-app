@@ -20,7 +20,8 @@ The following illustrates the folder structure:
       <span class="folder main">autobackup</span>
       <ul>
         <li>
-          <img src="/img/tachiyomi-book.png" alt="File" class="tree-icon icon-tachiyomi">
+          <img src="/img/]
+          -book.png" alt="File" class="tree-icon icon-tachiyomi">
           <span class="file jpg">xyz.jmir.tachiyomi.mi_yyyy-mm-dd_hh-mm<span class="file-extension">.tachibk</span></span>
         </li>
         <li>
