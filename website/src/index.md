@@ -8,8 +8,8 @@ hero:
   tagline: Discover and watch anime, cartoons, series, and more – easier than ever on your Android device.
   image:
     alt: Anipaca Library Tab Dark
-    light: /website/src/home/anipaca.webp
-    dark: /home/anipaca.webp
+    light: /home/anipca.webp
+    dark: /home/anipca.webp
   actions:
     - theme: brand
       text: Get started
