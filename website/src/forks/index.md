@@ -1,6 +1,6 @@
 ---
 title: Endorsed Forks
-description: Forks are alternative versions of Aniyomi with exclusive features.
+description: Forks are alternative versions of Anipaca with exclusive features.
 lastUpdated: false
 editLink: false
 prev: false
@@ -9,7 +9,7 @@ pageClass: forks
 
 features:
   - title: Animiru
-    details: Aniyomi without the manga features from Mihon - Focused in anime.
+    details: Anipaca without the manga features from Mihon - Focused in anime.
     icon: <img src="/forks/logo-animiru.webp" alt="Animiru Logo" height="32" width="32">
     link: /forks/Animiru/
   - title: Kuukiyomi
@@ -25,6 +25,6 @@ import { VPHomeFeatures } from "vitepress/theme"
 
 # Endorsed Forks
 
-Forks are alternative versions of Aniyomi with exclusive features.
+Forks are alternative versions of Anipaca with exclusive features.
 
 <VPHomeFeatures />

@@ -32,7 +32,7 @@ You can copy the following example and edit the details as needed:
 }
 ```
 ::: tip
-If you don't want to create the `details.json` file manually, you can use [this website](https://aniyomi-local.netlify.app)
+If you don't want to create the `details.json` file manually, you can use [this website](https://Anipaca-local.netlify.app)
 :::
 
 ## Editing episode details
@@ -61,7 +61,7 @@ An example is as follows:
 ]
 ```
 ::: warning For your information
-As Aniyomi will use the `episode_number` key to match the episodes, the order of the JSON objects in the list does not matter.
+As Anipaca will use the `episode_number` key to match the episodes, the order of the JSON objects in the list does not matter.
 :::
 
 ## Using a custom cover image

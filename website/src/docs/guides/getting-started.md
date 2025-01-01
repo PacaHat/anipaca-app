@@ -1,7 +1,7 @@
 ---
 title: Getting started
 titleTemplate: Guides
-description: Essential information to help you get set up with Aniyomi.
+description: Essential information to help you get set up with Anipaca.
 ---
 
 <script setup lang="ts">
@@ -10,19 +10,19 @@ import { data as release } from "@theme/data/release.data"
 
 # Getting started
 
-Essential information to help you get set up with Aniyomi.
+Essential information to help you get set up with Anipaca.
 
 ## Installation guide
 
-### Downloading Aniyomi
+### Downloading Anipaca
 
-1. Visit our [download](/download/) page to get the latest version of **Aniyomi**.
+1. Visit our [download](/download/) page to get the latest version of **Anipaca**.
 2. After the download is complete, open the `.apk` file.
 3. Proceed with the installation process.
 
 ### Adding sources
 
-Once **Aniyomi** is installed on your device, you can bring your own content to read from various sources:
+Once **Anipaca** is installed on your device, you can bring your own content to read from various sources:
 
 :::: tabs
 == Local source
@@ -33,12 +33,12 @@ See the local source guides for instructions:
 - [Anime](/docs/guides/local-anime-source/)
 
 == External repositories
-External repositories add additional sources to **Aniyomi**. You can add external repositories by going to <nav to="browse"> and tapping **Anime/Manga extension repos**.
+External repositories add additional sources to **Anipaca**. You can add external repositories by going to <nav to="browse"> and tapping **Anime/Manga extension repos**.
 
 Once there, you can add repositories by inputting URLs ending with `index.min.json`.
 
 ::: danger Caution
-Aniyomi will not provide resources for any unofficial repositories. Beware that any third-party repositories or extensions will have full access to the app and may contain malware.
+Anipaca will not provide resources for any unofficial repositories. Beware that any third-party repositories or extensions will have full access to the app and may contain malware.
 :::
 
 Once you've added a repository, go to <nav to="extensions"> and refresh the extensions list.
@@ -51,7 +51,7 @@ You can now tap the download button next to extensions to install them.
 Extensions can be manually installed through `.apk` files.
 
 ::: danger Caution
-Aniyomi will not provide resources for any unofficial extensions. Beware that any third-party repositories or extensions will have full access to the app and may contain malware.
+Anipaca will not provide resources for any unofficial extensions. Beware that any third-party repositories or extensions will have full access to the app and may contain malware.
 :::
 ::::
 

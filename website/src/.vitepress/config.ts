@@ -19,7 +19,7 @@ import generateFeed from './config/hooks/generateFeed'
 // Allows generation of RSS feed
 import generateOgImages from './config/hooks/generateOgImages'
 
-const title = 'Aniyomi'
+const title = 'Anipaca'
 const description = 'Discover and watch anime, cartoons, series, and more – easier than ever on your Android device.'
 
 const env = loadEnv('', process.cwd())

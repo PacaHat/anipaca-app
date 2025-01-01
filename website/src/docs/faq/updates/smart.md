@@ -1,12 +1,12 @@
 ---
 title: Smart updates
 titleTemplate: Updates - Frequently Asked Questions
-description: Aniyomi intelligently manages series updates to reduce the load on sources.
+description: Anipaca intelligently manages series updates to reduce the load on sources.
 ---
 
 # Smart updates
 
-Aniyomi intelligently works to reduce the number of series in a global update to reduce the load on sources. To be updated, a series has to meet the following conditions:
+Anipaca intelligently works to reduce the number of series in a global update to reduce the load on sources. To be updated, a series has to meet the following conditions:
 
 1. **Series Progress**: The series must have been **started**, with at least **one chapter read** or **one episode watched**.
 2. **Ongoing Status**: The series is **not marked Completed** by the source, there's an expectation of more chapters/episodes in the future.

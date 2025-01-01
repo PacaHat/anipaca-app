@@ -1,17 +1,17 @@
 {
-  "name": "aniyomi-website",
+  "name": "Anipaca-website",
   "type": "module",
   "version": "3.0.0",
   "private": true,
   "packageManager": "pnpm@9.14.2",
-  "description": "(Stolen) Official website for the Aniyomi app.",
+  "description": "(Stolen) Official website for the Anipaca app.",
   "license": "MPL-2.0",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/aniyomiorg/aniyomi-website.git"
+    "url": "git+https://github.com/Anipacaorg/Anipaca-website.git"
   },
   "bugs": {
-    "url": "https://github.com/aniyomiorg/aniyomi-website/issues"
+    "url": "https://github.com/Anipacaorg/Anipaca-website/issues"
   },
   "engines": {
     "node": ">=20",

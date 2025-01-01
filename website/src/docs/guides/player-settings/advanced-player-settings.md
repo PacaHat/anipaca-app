@@ -13,11 +13,11 @@ This page explores some advanced features.
 :::
 
 ## Edit MPV configuration file <Badge text="None" type="info" />
-Aniyomi employs the [mpv-android](https://github.com/mpv-android/mpv-android) player, offering the ability to extensively configure its settings via a dedicated configuration file. With this feature, you can conveniently edit the configuration file directly within the app.
+Anipaca employs the [mpv-android](https://github.com/mpv-android/mpv-android) player, offering the ability to extensively configure its settings via a dedicated configuration file. With this feature, you can conveniently edit the configuration file directly within the app.
 For further details about the configuration file, refer to [mpv's documentation](https://mpv.io/manual/stable/#configuration-files).
 
 ## Edit MPV input file <Badge text="None" type="info" />
-Aniyomi can also use some of mpv's keybinds, which can be configured here.
+Anipaca can also use some of mpv's keybinds, which can be configured here.
 For further details about the input file, refer to [mpv's documentation](https://mpv.io/manual/stable/#command-interface).
 
 ## Edit advanced subtitle track select configuration
@@ -33,11 +33,11 @@ The configuration file is a json with the following structure:
 ```
 
 where `lang`, `blacklist`, and `whitelist` are all optional fields. `lang` indicates which languages to include, enter values as either a two or three-letter [ISO 639](https://en.wikipedia.org/wiki/ISO_639) code.
-**Aniyomi** will choose the first language in `lang` that has a subtitle, and then filter only those of that language. If no `lang` is set, only the app's language will be used.
+**Anipaca** will choose the first language in `lang` that has a subtitle, and then filter only those of that language. If no `lang` is set, only the app's language will be used.
 `blacklist` and `whitelist` are lists of blacklisted and whitelisted keywords, respectively. The keywords are case-insensitive.
 
-First, **Aniyomi** will filter out any subtitle names that contain a blacklisted keyword, and then filter out all languages that aren't the same as the first match in `lang`.
-From that filtered list, **Aniyomi** will pick the first subtitle which either contains a whitelisted keyword or the first item in the filtered list if `whitelist` isn't defined.
+First, **Anipaca** will filter out any subtitle names that contain a blacklisted keyword, and then filter out all languages that aren't the same as the first match in `lang`.
+From that filtered list, **Anipaca** will pick the first subtitle which either contains a whitelisted keyword or the first item in the filtered list if `whitelist` isn't defined.
 If no subtitles remain after filtering, the first subtitle in the subtitle list will be picked, regardless of the subtitle configuration.
 
 ## Enable gpu-next <Badge text="Off" type="info" />

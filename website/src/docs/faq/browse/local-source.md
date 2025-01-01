@@ -10,8 +10,8 @@ Frequently Asked Questions about the Local anime/manga source.
 ## How can I import my downloaded series?
 For a step-by-step process, we recommend referring to [this guide for local manga source](/docs/guides/local-manga-source/) or [this guide for local anime source](/docs/guides/local-anime-source/).
 
-## What should I do if I can't find the Aniyomi folder?
-In case the **Aniyomi** folder is not visible, create one using a file manager.
+## What should I do if I can't find the Anipaca folder?
+In case the **Anipaca** folder is not visible, create one using a file manager.
 
 ## How can I resolve empty/blank covers?
 Occasionally, cover images for local series might not appear.

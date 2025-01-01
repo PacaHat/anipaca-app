@@ -8,10 +8,10 @@ description: Frequently Asked Questions about Extensions.
 Frequently Asked Questions about Extensions.
 
 ## What are some recommended extensions and sources?
-Aniyomi is bring-your-own-content and does not offer anything.
+Anipaca is bring-your-own-content and does not offer anything.
 
 ::: info Disclaimer
-**Aniyomi** isn't responsible for slow, down, missing chapters/episodes, or subpar image/video quality of sources as it doesn't host content.
+**Anipaca** isn't responsible for slow, down, missing chapters/episodes, or subpar image/video quality of sources as it doesn't host content.
 :::
 
 ## Enabling third-party installations
@@ -39,8 +39,8 @@ When prompted while installing your first extension, allow unknown apps installa
 ::::
 
 ## How do I uninstall an extension?
-Uninstall extensions like regular apps: through device settings or in **Aniyomi**.
+Uninstall extensions like regular apps: through device settings or in **Anipaca**.
 
 ::: tip Uninstalling an extension
-In **Aniyomi**, uninstall an extension via <nav to="extensions">, then tap **Uninstall** on the chosen extension.
+In **Anipaca**, uninstall an extension via <nav to="extensions">, then tap **Uninstall** on the chosen extension.
 :::

@@ -1,6 +1,6 @@
 ---
 title: News
-description: Collection of news and announcements about Aniyomi.
+description: Collection of news and announcements about Anipaca.
 lastUpdated: false
 editLink: false
 prev: false
@@ -14,7 +14,7 @@ import RssLink from "@theme/components/RssLink.vue";
 
 # News
 
-Collection of news and announcements about Aniyomi.
+Collection of news and announcements about Anipaca.
 
 Also available as <RssLink />.
 

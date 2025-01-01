@@ -15,7 +15,7 @@ The app's default behavior is to skip updates for entries that meet the followin
 * Carry a "**Completed**" status
 * Isn't expected to have new chapters yet
 
-This strategy prevents unnecessary load which may lead to sources implementing measures against **Aniyomi**.
+This strategy prevents unnecessary load which may lead to sources implementing measures against **Anipaca**.
 To manage entries with infrequent or no updates, consider using categories and excluding them from updates.
 
 We recommend using the default settings and prioritizing unwatched episodes for watching and unread episodes for reading.
@@ -23,7 +23,7 @@ We recommend using the default settings and prioritizing unwatched episodes for 
 If you wish to disable the notification about skipped items, you can do so at <nav to="advanced"> and then **Manage notifications** (doing so requires Android 8 or above).
 
 ## Why am I warned about large bulk updates and downloads?
-Excessive server load may trigger anti-**Aniyomi** measures from sources. See the previous question for more context. Long-running update checks and downloads may also impact your device's battery life.
+Excessive server load may trigger anti-**Anipaca** measures from sources. See the previous question for more context. Long-running update checks and downloads may also impact your device's battery life.
 
 To mitigate these concerns:
 
@@ -34,7 +34,7 @@ To mitigate these concerns:
 ## Why aren't library updates working?
 Some Android skins (e.g., **MIUI**) aggressively save battery, potentially shutting down apps in the background.
 
-Whitelist **Aniyomi** from your battery saver by going to <nav to="advanced"> and tapping **Disable battery optimization**.
+Whitelist **Anipaca** from your battery saver by going to <nav to="advanced"> and tapping **Disable battery optimization**.
 
 If unsuccessful, refer to [Don't Kill My App](https://dontkillmyapp.com/) for how to disable specific battery-saving options for your device.
 
@@ -43,7 +43,7 @@ Badges can be enabled by navigating to <nav to="main_library">, then going to **
 Then, at the bottom, select **Download badges**.
 
 ## Can I sync between multiple devices?
-**Aniyomi** can't sync between devices.
+**Anipaca** can't sync between devices.
 Use its [backup and restore](/docs/guides/backups) features, including [auto backups](/docs/guides/backups#enabling-automatic-backups), for series database and content migration to another device.
 
 ## How can I ignore duplicate episodes?
@@ -64,7 +64,7 @@ Refresh your covers at <nav to="advanced"> then tap **Refresh library covers**.
 
 ## Why have some episodes been marked as unwatched?
 If certain series episodes are marked as unwatched without your interaction, it could be due to changed URLs.
-**Aniyomi** detects these changes and interprets the episodes as new.
+**Anipaca** detects these changes and interprets the episodes as new.
 
 ## How do I pause watching history?
 Disable **Incognito Mode** through <nav to="incognito-mode">.

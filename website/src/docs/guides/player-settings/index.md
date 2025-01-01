@@ -137,13 +137,13 @@ Self-explanatory.
 For those people who want to use external players like MX Player, VLC or MPV as a default player can toggle this option on.
 
 ### External player preference <Badge text="None" type="info" />
-Shows you a list of players currently installed on your phone which are supported by Aniyomi as an external player and lets you select your preferred one.
+Shows you a list of players currently installed on your phone which are supported by Anipaca as an external player and lets you select your preferred one.
 
 #### None
-- If the 'None' option is selected then Aniyomi will present you with all the supported external players available on your phone when you tap on an episode to play it.
+- If the 'None' option is selected then Anipaca will present you with all the supported external players available on your phone when you tap on an episode to play it.
 
 ::: tip
-Below 'None' are all of the external players available on your phone that will be displayed and selecting one of them will make it the default for Aniyomi.
+Below 'None' are all of the external players available on your phone that will be displayed and selecting one of them will make it the default for Anipaca.
 :::
 
 <!-- markdownlint-disable MD004 -->

@@ -6,7 +6,7 @@ description: Backups helps you prevent losing your library if something happens.
 
 # Backups
 
-Backups in **Aniyomi** are compatible between different versions of the app.
+Backups in **Anipaca** are compatible between different versions of the app.
 
 ::: tip How to create a backup
 1. Go to <nav to="data-and-storage">.
@@ -46,7 +46,7 @@ To ensure a smooth restoration process, remember to:
 Before starting to import the selected backup, the app will remind the user of these.
 
 ### Transferring downloads to a new installation
-You can transfer downloaded series episodes/chapters from one version of **Aniyomi** to another
+You can transfer downloaded series episodes/chapters from one version of **Anipaca** to another
 by correctly specifying the Download Location.
 
 ## Suggestions for backups
@@ -65,7 +65,7 @@ This way, you can recover from catastrophic failures.
 :::
 
 ### Syncing backups with external cloud services
-Cross device sync in **Aniyomi** is not currently available, but users can use
+Cross device sync in **Anipaca** is not currently available, but users can use
 [Autosync for Google Drive](https://play.google.com/store/apps/details?id=com.ttxapps.drivesync)
 in order to sync backup files to Drive automatically with the following steps:
 
@@ -82,11 +82,11 @@ or [Tasker](https://play.google.com/store/apps/details?id=net.dinglisch.android.
 This section explores some extra details regarding [forks](/forks/).
 :::
 
-All **Aniyomi** (and **Mihon**) [forks](/forks/) support the `.tachibk`/`.proto.gz` format to backup/restore your library.
+All **Anipaca** (and **Mihon**) [forks](/forks/) support the `.tachibk`/`.proto.gz` format to backup/restore your library.
 
 In addition, some forks have specific limitations regarding backup restoration:
 
 - All forks have fork-specific settings and changes that might be saved in Backups.
-  Such settings are not restored in **Aniyomi** and will get lost when creating a new backup.
+  Such settings are not restored in **Anipaca** and will get lost when creating a new backup.
 
-Be aware of these limitations when dealing with backups in different **Aniyomi** and **Mihon** forks.
+Be aware of these limitations when dealing with backups in different **Anipaca** and **Mihon** forks.

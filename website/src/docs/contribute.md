@@ -9,25 +9,25 @@ Find out how to help translate or build the app.
 ## Code
 Know how to code and want to improve something or you generally want to support the creation of the app?
 
-[![aniyomiorg/aniyomi - GitHub](https://github-readme-stats.vercel.app/api/pin/?username=aniyomiorg&repo=aniyomi&bg_color=f6f6f7&title_color=818cf8&icon_color=818cf8&border_radius=8&hide_border=false#light "aniyomiorg/aniyomi - GitHub" =400x120)](https://github.com/aniyomiorg/aniyomi)
+[![Anipacaorg/Anipaca - GitHub](https://github-readme-stats.vercel.app/api/pin/?username=Anipacaorg&repo=Anipaca&bg_color=f6f6f7&title_color=818cf8&icon_color=818cf8&border_radius=8&hide_border=false#light "Anipacaorg/Anipaca - GitHub" =400x120)](https://github.com/Anipacaorg/Anipaca)
 
-[![aniyomiorg/aniyomi-website - GitHub](https://github-readme-stats.vercel.app/api/pin/?username=aniyomiorg&repo=aniyomi-website&bg_color=f6f6f7&title_color=818cf8&icon_color=818cf8&border_radius=8&hide_border=false#light "aniyomiorg/aniyomi-website - GitHub" =400x120)](https://github.com/aniyomiorg/aniyomi-website)
+[![Anipacaorg/Anipaca-website - GitHub](https://github-readme-stats.vercel.app/api/pin/?username=Anipacaorg&repo=Anipaca-website&bg_color=f6f6f7&title_color=818cf8&icon_color=818cf8&border_radius=8&hide_border=false#light "Anipacaorg/Anipaca-website - GitHub" =400x120)](https://github.com/Anipacaorg/Anipaca-website)
 
-[![aniyomiorg/aniyomi - GitHub](https://github-readme-stats.vercel.app/api/pin/?username=aniyomiorg&repo=aniyomi&bg_color=1a1a41&text_color=c9d1d9&title_color=818cf8&icon_color=818cf8&border_radius=8&hide_border=true#dark "aniyomiorg/aniyomi - GitHub" =400x120)](https://github.com/aniyomiorg/aniyomi)
+[![Anipacaorg/Anipaca - GitHub](https://github-readme-stats.vercel.app/api/pin/?username=Anipacaorg&repo=Anipaca&bg_color=1a1a41&text_color=c9d1d9&title_color=818cf8&icon_color=818cf8&border_radius=8&hide_border=true#dark "Anipacaorg/Anipaca - GitHub" =400x120)](https://github.com/Anipacaorg/Anipaca)
 
-[![aniyomiorg/aniyomi-website - GitHub](https://github-readme-stats.vercel.app/api/pin/?username=aniyomiorg&repo=aniyomi-website&bg_color=1a1a41&text_color=c9d1d9&title_color=818cf8&icon_color=818cf8&border_radius=8&hide_border=true#dark "aniyomiorg/aniyomi-website - GitHub" =400x120)](https://github.com/aniyomiorg/aniyomi-website)
+[![Anipacaorg/Anipaca-website - GitHub](https://github-readme-stats.vercel.app/api/pin/?username=Anipacaorg&repo=Anipaca-website&bg_color=1a1a41&text_color=c9d1d9&title_color=818cf8&icon_color=818cf8&border_radius=8&hide_border=true#dark "Anipacaorg/Anipaca-website - GitHub" =400x120)](https://github.com/Anipacaorg/Anipaca-website)
 
 ## Translation
 Find out how to help translate the app.
 
-[![Translation stats](https://hosted.weblate.org/widget/aniyomi/287x66-grey.png "Translation stats - Weblate" =287x66)](https://hosted.weblate.org/engage/aniyomi/)
+[![Translation stats](https://hosted.weblate.org/widget/Anipaca/287x66-grey.png "Translation stats - Weblate" =287x66)](https://hosted.weblate.org/engage/Anipaca/)
 
-[![Translation progress](https://hosted.weblate.org/widget/aniyomi/horizontal-auto.svg "Translation progress - Weblate" =760x200)](https://hosted.weblate.org/engage/aniyomi/)
+[![Translation progress](https://hosted.weblate.org/widget/Anipaca/horizontal-auto.svg "Translation progress - Weblate" =760x200)](https://hosted.weblate.org/engage/Anipaca/)
 
 Want to help translate the app to your language?
 You can easily help by utilizing a service we use called **Weblate**.
 
-> View translation project [here](https://hosted.weblate.org/engage/aniyomi/)
+> View translation project [here](https://hosted.weblate.org/engage/Anipaca/)
 
 ### Helpful links
 * [Translators guide](https://docs.weblate.org/en/latest/user/translating.html)
