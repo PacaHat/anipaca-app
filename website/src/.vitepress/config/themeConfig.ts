@@ -18,7 +18,7 @@ const themeConfig: DefaultTheme.Config = {
   socialLinks: [
     {
       icon: 'github',
-      link: 'https://github.com/Anipacaorg/Anipaca',
+      link: 'https://github.com/aniyomiorg/aniyomi',
       ariaLabel: 'Project GitHub',
     },
     {
@@ -30,11 +30,11 @@ const themeConfig: DefaultTheme.Config = {
 
   footer: {
     message: '<a href="https://www.apache.org/licenses/LICENSE-2.0" target="_blank">Open-source Apache Licensed</a> <span class="divider">|</span> <a href="/privacy/">Privacy policy</a>',
-    copyright: `Copyright © ${new Date().getFullYear()} Anipaca App`,
+    copyright: `Copyright © ${new Date().getFullYear()} Aniyomi App`,
   },
 
   editLink: {
-    pattern: 'https://github.com/Anipacaorg/Anipaca-website/edit/master/website/src/:path',
+    pattern: 'https://github.com/aniyomiorg/aniyomi-website/edit/master/website/src/:path',
     text: 'Help us improve this page',
   },
 

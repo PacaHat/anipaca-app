@@ -1,4 +1,4 @@
-# Anipaca Website Contributing Guide
+# Aniyomi Website Contributing Guide
 
 Before submitting your contribution, please make sure to take a moment and read through the following guidelines:
 
@@ -70,7 +70,7 @@ It is also recommended you lint your files before the PR.
 ### Videos
 
 - Use `.webm` format
-  - Encode it with our [HandBrake profile](./.github/assets/Anipaca-handbrake-profile.json)
+  - Encode it with our [HandBrake profile](./.github/assets/aniyomi-handbrake-profile.json)
 
 - Remove audio track
 
@@ -78,4 +78,4 @@ It is also recommended you lint your files before the PR.
 
 Thank you to all the people who have already contributed!
 
-[![List of Contributors](https://contrib.rocks/image?repo=Anipacaorg/Anipaca-website 'List of Contributors')](https://github.com/Anipacaorg/Anipaca-website/graphs/contributors)
+[![List of Contributors](https://contrib.rocks/image?repo=aniyomiorg/aniyomi-website 'List of Contributors')](https://github.com/aniyomiorg/aniyomi-website/graphs/contributors)

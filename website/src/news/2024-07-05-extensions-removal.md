@@ -7,11 +7,11 @@ date: 2024-07-05
 
 # Extensions list removed
 
-**Dear Anipaca Community,**
+**Dear Aniyomi Community,**
 
 Due to extenuating circumstances, we have had to purge our list of extensions.
 
-As of now, **Anipaca** is transitioning to a fully bring-your-own-content model. What this means is that you can still enjoy **Anipaca** for manga reading and anime watching, but you'll need to source and add your own content.
+As of now, **Aniyomi** is transitioning to a fully bring-your-own-content model. What this means is that you can still enjoy **Aniyomi** for manga reading and anime watching, but you'll need to source and add your own content.
 
 We strongly encourage all users to exercise caution, and avoid utilizing extensions from unknown repositories, as they may contain malware.
 
@@ -22,4 +22,4 @@ Additionally, please be aware that neither our Discord server nor our GitHub rep
 Best regards,
 
 <!-- markdownlint-disable-next-line MD036 -->
-*The Anipaca Team*
+*The Aniyomi Team*

@@ -32,7 +32,7 @@ You can copy the following example and edit the details as needed:
 }
 ```
 ::: tip
-If you don't want to create the `details.json` file manually, you can use the android app [Koguma](https://github.com/ghostbear/koguma/releases/latest) or [this website](https://Anipaca-local.netlify.app/manga)
+If you don't want to create the `details.json` file manually, you can use the android app [Koguma](https://github.com/ghostbear/koguma/releases/latest) or [this website](https://aniyomi-local.netlify.app/manga)
 :::
 
 ## Editing chapter details
@@ -61,7 +61,7 @@ An example is as follows:
 ]
 ```
 ::: warning For your information
-As Anipaca will use the `chapter_number` key to match the chapters, the order of the JSON objects in the list does not matter.
+As Aniyomi will use the `chapter_number` key to match the chapters, the order of the JSON objects in the list does not matter.
 :::
 
 ## Using a custom cover image

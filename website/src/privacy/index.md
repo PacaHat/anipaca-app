@@ -1,12 +1,12 @@
 ---
 title: Privacy policy
-description: Privacy Policy that explains how Anipaca collects, uses, and protects users' personal information.
+description: Privacy Policy that explains how Aniyomi collects, uses, and protects users' personal information.
 editLink: false
 ---
 
 # Privacy policy
 
-Anipaca is an Open Source app.
+Aniyomi is an Open Source app.
 This SERVICE is provided at no cost and is intended for use as is.
 
 This page details our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service.

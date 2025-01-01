@@ -12,8 +12,13 @@ export { data }
 export default defineLoader({
   async load(): Promise<GitHubReleaseList> {
     const releases = await octokit.paginate(octokit.repos.listReleases, {
+<<<<<<< HEAD
       owner: 'PacaHat',
       repo: 'Anipaca',
+=======
+      owner: 'aniyomiorg',
+      repo: 'aniyomi',
+>>>>>>> parent of 82ef8f5 (rename)
       per_page: 100,
     })
 

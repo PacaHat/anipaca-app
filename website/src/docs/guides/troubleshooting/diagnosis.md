@@ -27,7 +27,7 @@ Follow these steps to troubleshoot and find solutions.
    - Clear Database
    - DNS over HTTPS
 1. **Download Issues**: Delete the queue and retry downloads.
-1. **Restart Anipaca**: Force close and reopen the app.
+1. **Restart Aniyomi**: Force close and reopen the app.
 
 If any of these solutions help, go to [Personalized Issue](#personalized-issue).
 If it is not just you, go to [Widespread Issue](#widespread-issue).
@@ -43,7 +43,7 @@ There are no ETAs for updates.
 :::
 
 ## Personalized issue
-If you're the only one facing a problem, you might be encountering [Cloudflare](/docs/guides/troubleshooting/#cloudflare) protection, an IP ban, or other countermeasures set by website owners against programs like **Anipaca**.
+If you're the only one facing a problem, you might be encountering [Cloudflare](/docs/guides/troubleshooting/#cloudflare) protection, an IP ban, or other countermeasures set by website owners against programs like **Aniyomi**.
 
 **To minimize future issues:**
 - Avoid using downloads with the source.
@@ -56,8 +56,8 @@ These are general guidelines as each site has its specific undisclosed limits an
 ## Widespread issue
 When everyone experiences a problem, it could be with the extension or app:
 
-1. Check [open issues](https://github.com/Anipacaorg/Anipaca/issues)
-2. Check [closed issues](https://github.com/Anipacaorg/Anipaca/issues?q=is%3Aissue+is%3Aclosed) in case it's resolved but not yet released.
+1. Check [open issues](https://github.com/aniyomiorg/aniyomi/issues)
+2. Check [closed issues](https://github.com/aniyomiorg/aniyomi/issues?q=is%3Aissue+is%3Aclosed) in case it's resolved but not yet released.
 3. If not found, create a new issue.
 
 ::: warning

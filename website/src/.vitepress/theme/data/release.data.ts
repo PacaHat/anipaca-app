@@ -17,13 +17,13 @@ export { data }
 export default defineLoader({
   async load(): Promise<AppRelease> {
     const { data: stable } = await octokit.repos.getLatestRelease({
-      owner: 'Anipacaorg',
-      repo: 'Anipaca',
+      owner: 'aniyomiorg',
+      repo: 'aniyomi',
     })
 
     const { data: preview } = await octokit.repos.getLatestRelease({
-      owner: 'Anipacaorg',
-      repo: 'Anipaca-preview',
+      owner: 'aniyomiorg',
+      repo: 'aniyomi-preview',
     })
 
     return { stable, preview }

@@ -12,7 +12,7 @@ const headConfig: HeadConfig[] = [
   ['link', { rel: 'manifest', href: '/site.webmanifest' }],
   ['link', { rel: 'mask-icon', href: '/safari-pinned-tab.svg', color: '#818CF8' }],
   ['link', { rel: 'apple-touch-icon', type: 'image/x-icon', sizes: '180x180', href: '/favicon.ico' }],
-  ['meta', { property: 'og:site_name', content: 'Anipaca' }],
+  ['meta', { property: 'og:site_name', content: 'Aniyomi' }],
   ['meta', { property: 'og:description', content: 'Discover and watch anime, cartoons, series, and more – easier than ever on your Android device.' }],
   ['meta', { property: 'og:locale', content: 'en_US' }],
   ['meta', { property: 'og:type', content: 'website' }],

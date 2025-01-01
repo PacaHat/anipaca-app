@@ -8,12 +8,12 @@ const downloadInformation = computed(() => ({
   preview: {
     tagName: release.preview.tag_name ?? 'r0000',
     asset: (release.preview.assets ?? [])
-      .find(a => /^Anipaca-r\d{4,}.apk/.test(a.name)),
+      .find(a => /^aniyomi-r\d{4,}.apk/.test(a.name)),
   },
   stable: {
     tagName: release.stable.tag_name ?? 'v0.00.0.0',
     asset: (release.stable.assets ?? [])
-      .find(a => /^Anipaca-v\d{1,3}\.\d{1,3}\.\d{1,3}\.\d{1,3}\.apk/.test(a.name)),
+      .find(a => /^aniyomi-v\d{1,3}\.\d{1,3}\.\d{1,3}\.\d{1,3}\.apk/.test(a.name)),
   },
 }))
 
@@ -41,7 +41,7 @@ function handleAnalytics(type: 'preview' | 'stable') {
         Unsupported operating system
       </p>
       <p>
-        <strong>Anipaca</strong> is an <strong>Android app</strong> only.
+        <strong>Aniyomi</strong> is an <strong>Android app</strong> only.
         Use an <strong>Android device</strong> to download and install the app.
       </p>
     </div>
@@ -51,7 +51,7 @@ function handleAnalytics(type: 'preview' | 'stable') {
       </p>
       <p>
         Any app for any operating systems other than Android called
-        <strong>Anipaca</strong> is not affiliated with this project.
+        <strong>Aniyomi</strong> is not affiliated with this project.
       </p>
       <blockquote>
         For more information, read the

@@ -1,6 +1,6 @@
 ---
 title: Changelogs
-description: Changelogs of all Anipaca stable releases.
+description: Changelogs of all Aniyomi stable releases.
 lastUpdated: false
 editLink: false
 prev: false
@@ -13,6 +13,6 @@ import ChangelogsList from "@theme/components/ChangelogsList.vue";
 
 # Changelogs
 
-Changelogs of all Anipaca stable releases, which are also available [on GitHub](https://github.com/Anipacaorg/Anipaca/releases). Preview releases can be seen [on GitHub](https://github.com/Anipacaorg/Anipaca-preview/releases).
+Changelogs of all Aniyomi stable releases, which are also available [on GitHub](https://github.com/aniyomiorg/aniyomi/releases). Preview releases can be seen [on GitHub](https://github.com/aniyomiorg/aniyomi-preview/releases).
 
 <ChangelogsList />
