@@ -1,12 +1,12 @@
 ---
 title: Privacy policy
-description: Privacy Policy that explains how Aniyomi collects, uses, and protects users' personal information.
+description: Privacy Policy that explains how Anipaca collects, uses, and protects users' personal information.
 editLink: false
 ---
 
 # Privacy policy
 
-Aniyomi is an Open Source app.
+Anipaca is an Open Source app.
 This SERVICE is provided at no cost and is intended for use as is.
 
 This page details our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service.
@@ -35,7 +35,7 @@ Note that these external sites are not operated by us.
 Therefore, we strongly advise you to review the Privacy Policy of these websites.
 We have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
 
-This includes the use of external tracking services (e.g. MyAnimeList).
+This includes the use of external tracking services (e.g. Anilist).
 
 ## Changes to This Privacy Policy
 
@@ -46,4 +46,4 @@ The current iteration of this policy is effective as of January 15, 2024.
 
 ## Contact Us
 
-If you have any questions or suggestions about this Privacy Policy, do not hesitate to reach out to us on [our Discord server](https://discord.gg/F32UjdJZrR).
+If you have any questions or suggestions about this Privacy Policy, do not hesitate to reach out to us on [our Discord server](https://discord.gg/dC6u9NBW).
