@@ -18,12 +18,12 @@ const themeConfig: DefaultTheme.Config = {
   socialLinks: [
     {
       icon: 'github',
-      link: 'https://github.com/aniyomiorg/aniyomi',
+      link: 'https://github.com/PacaHat/Anipaca',
       ariaLabel: 'Project GitHub',
     },
     {
       icon: 'discord',
-      link: 'https://discord.gg/F32UjdJZrR',
+      link: 'https://discord.gg/dC6u9NBW',
       ariaLabel: 'Discord Server',
     },
   ],
