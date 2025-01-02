@@ -12,7 +12,7 @@ hero:
     dark: /home/anipca.webp
   actions:
     - theme: brand
-      text: Visit Website 
+      text: Visit Website
       link: https://www.anipaca.fun/
     - theme: alt
       text: Download
