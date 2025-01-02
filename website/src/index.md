@@ -12,8 +12,8 @@ hero:
     dark: /home/anipca.webp
   actions:
     - theme: brand
-      text: Get started
-      link: /
+      text: Visit Website 
+      link: https://www.anipaca.fun/
     - theme: alt
       text: Download
       link: https://github.com/PacaHat/anipaca-app/releases/download/
