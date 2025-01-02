@@ -11,10 +11,12 @@ hero:
     light: /home/anipca.webp
     dark: /home/anipca.webp
   actions:
-    -
+    - theme: brand
+      text: Get started
+      link: /
     - theme: alt
       text: Download
-      link: /download/
+      link: https://github.com/PacaHat/anipaca-app/releases/download/download/anipaca-v0.1.1.apk
 
 customMetaTitle: Anipaca
 
