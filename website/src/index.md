@@ -4,16 +4,14 @@ layout: home
 
 hero:
   name: Anipaca
-  text: Full-featured streaming app, based on <s>hianime</s> Anipaca.fun
+  text: Full-featured Anime streaming app, based on <s>hianime</s> Anipaca.fun
   tagline: Discover and watch anime, cartoons, series, and more – easier than ever on your Android device.
   image:
     alt: /home/anipca.webp
     light: /home/anipca.webp
     dark: /home/anipca.webp
   actions:
-    - theme: brand
-      text: Get started
-      link: /docs/guides/getting-started
+    -
     - theme: alt
       text: Download
       link: /download/
