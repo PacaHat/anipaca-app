@@ -2,28 +2,14 @@ import type { DefaultTheme } from 'vitepress'
 
 const nav: DefaultTheme.NavItem[] = [
   {
-    text: 'Get v{app_version}',
+    text: 'Get app',
     activeMatch: '^/*?(download|changelogs)/*?$',
     items: [
       {
         text: 'Download',
-        link: '/download/',
-      },
-      {
-        text: 'Changelogs',
-        link: '/changelogs/',
+        link: 'https://github.com/PacaHat/anipaca-app/releases/download/',
       },
     ],
-  },
-  {
-    text: 'Docs',
-    link: '/docs/guides/getting-started',
-    activeMatch: '/docs/',
-  },
-  {
-    text: 'News',
-    link: '/news/',
-    activeMatch: '/news/',
   },
 ]
 
