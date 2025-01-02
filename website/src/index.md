@@ -16,7 +16,7 @@ hero:
       link: /
     - theme: alt
       text: Download
-      link: https://github.com/PacaHat/anipaca-app/releases/download/download/anipaca-v0.1.1.apk
+      link: https://github.com/PacaHat/anipaca-app/releases/download/
 
 customMetaTitle: Anipaca
 
