@@ -16,7 +16,7 @@ hero:
       link: https://www.anipaca.fun/
     - theme: alt
       text: Download
-      link: https://github.com/PacaHat/anipaca-app/releases/download/
+      link: https://github.com/PacaHat/anipaca-app/releases
 
 customMetaTitle: Anipaca
 
